@@ -1,0 +1,3 @@
+name: aws-orgs
+runtime: go
+description: My AWS organisations
