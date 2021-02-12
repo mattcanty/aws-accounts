@@ -2,4 +2,4 @@ config:
   aws:region: eu-west-2
   aws-accounts:data:
     accounts:
-      - name: foo
+      - name: photography
