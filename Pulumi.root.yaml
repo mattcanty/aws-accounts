@@ -3,3 +3,4 @@ config:
   aws-accounts:data:
     accounts:
       - name: photography
+      - name: foo # Cancelled 12th Feb 2021. Can be removed 13th May 2021 (90 days)
